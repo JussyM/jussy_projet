@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "/home/jj/53554_bonne_nuit/cmake-build-debug/53554_bonne_nuit_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jj/53554_bonne_nuit/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jj/53554_bonne_nuit/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jj/53554_bonne_nuit",
+	"CMAKE_SOURCE_DIR" : "/home/jj/53554_bonne_nuit",
+	"INCLUDE_DIR" : "/home/jj/53554_bonne_nuit/cmake-build-debug/53554_bonne_nuit_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/jj/53554_bonne_nuit/resources/img/empty.png",
+		"/home/jj/53554_bonne_nuit/resources/img/no_drop.png",
+		"/home/jj/53554_bonne_nuit/resources/img/star_purple.png",
+		"/home/jj/53554_bonne_nuit/resources/img/star_night.png",
+		"/home/jj/53554_bonne_nuit/resources/img/star_green.png",
+		"/home/jj/53554_bonne_nuit/resources/img/star_down.png",
+		"/home/jj/53554_bonne_nuit/resources/img/star_black.png",
+		"/home/jj/53554_bonne_nuit/resources/img/drop.png",
+		"/home/jj/53554_bonne_nuit/resources/img/star_red.png",
+		"/home/jj/53554_bonne_nuit/resources/img/star_blue.png",
+		"/home/jj/53554_bonne_nuit/resources/img/night.png"
+	],
+	"LOCK_FILE" : "/home/jj/53554_bonne_nuit/cmake-build-debug/CMakeFiles/53554_bonne_nuit_autogen.dir/AutoRcc_bn_img_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "bn_img" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_bn_img.cpp",
+	"RCC_EXECUTABLE" : "/home/jj/Qt/6.1.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/jj/53554_bonne_nuit/cmake-build-debug/CMakeFiles/53554_bonne_nuit_autogen.dir/AutoRcc_bn_img_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "/home/jj/53554_bonne_nuit/resources/bn_img.qrc",
+	"VERBOSITY" : 0
+}

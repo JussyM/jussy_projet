@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "53554_bonne_nuit",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "53554_bonne_nuit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-53554_bonne_nuit-Debug-4b0027fc7eb1a9bb5cd8.json",
+					"name" : "53554_bonne_nuit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "53554_bonne_nuit_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-53554_bonne_nuit_autogen-Debug-f2b949d60517c43fb8fb.json",
+					"name" : "53554_bonne_nuit_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "53554_bonne_nuit_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-53554_bonne_nuit_autogen_timestamp_deps-Debug-6063d99d11dffd6b08e8.json",
+					"name" : "53554_bonne_nuit_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jj/53554_bonne_nuit",
+		"source" : "/home/jj/53554_bonne_nuit"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

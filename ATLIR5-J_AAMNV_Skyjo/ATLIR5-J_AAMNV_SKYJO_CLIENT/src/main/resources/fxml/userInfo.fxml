@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane minHeight="388.0" minWidth="653.0" prefHeight="388.0" prefWidth="653.0" xmlns="http://javafx.com/javafx/13" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="title" alignment="TOP_CENTER" layoutY="51.0" prefHeight="48.0" prefWidth="653.0" text="INFORMATION UTILISATEUR" textFill="#1871c4" underline="true">
+         <font>
+            <Font name="3270 Narrow Nerd Font Complete Mono" size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="18.0" layoutY="143.0" prefHeight="31.0" prefWidth="90.0" text="User Name :" />
+      <Label fx:id="userName" layoutX="125.0" layoutY="146.0" prefHeight="25.0" prefWidth="90.0" text="Label" />
+      <Label layoutX="18.0" layoutY="191.0" prefHeight="31.0" prefWidth="75.0" text="Priority :" />
+      <Label fx:id="type" layoutX="125.0" layoutY="194.0" prefHeight="25.0" prefWidth="64.0" text="Label" />
+      <Label layoutX="18.0" layoutY="234.0" prefHeight="25.0" prefWidth="57.0" text="user ID:" />
+      <Label fx:id="id" layoutX="125.0" layoutY="238.0" text="Label" />
+      <Label alignment="TOP_CENTER" layoutX="-1.0" layoutY="309.0" prefHeight="25.0" prefWidth="653.0" text="Attendre un joueur si ADMIN ou Attendre réponse serveur si OTHER" />
+   </children>
+</Pane>
